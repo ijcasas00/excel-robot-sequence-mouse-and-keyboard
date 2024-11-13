@@ -1,0 +1,91 @@
+vista general de:
+Miembros de '<globales>":
+ACTIVATEWORKBOOK
+apiShellExecute
+Bubble Sort
+BuscaCoincidenciaEn Segisa
+BUSCAENORDENESQUECONTENGANPO
+buscosoloelnumerodearticulo
+CLEARANDORDENATELISTEDESCANNEDCELLS
+ClipBoard_SetData
+= clipboardforloop
+compatibilitymovelisttocol8
+COPYFilesTOFOLDER
+copypaste
+copyrempodata
+copyrempodataallbooksopen
+COUNTLISTFUNCTION
+COUNTLISTFUNCTIONCOPYFiles
+countregitry
+countregitrylistacobinada
+countregitrylistaderemisiones
+creanuevahojadelistadecombinadadearchivos
+CREATEFOLDERENTREGA
+dural
+EXTRACTNUMBERFROMSTRING
+FINDANDMOVESELLADAS
+FindWindow
+FnFindWindowLike
+fselecttion
+Get_Clipboard_Text
+Get_Clipboard_TextLOOP
+GetActiveWindow
+getFName
+GetMousePositionLearnMOUSEDBLCLK
+GetMouse PositionLearnMOUSEDOWN
+GetMousePositionLearnMOUSEMOVE
+GetMousePositionLearnNewTwitButton
+Handlemicrosoftedge
+iexplorer
+listacobinadaparagrupos
+ListFiles
+ListFilesPO
+ListFiles SELLADAS
+Macro1
+Macro2
+Macro3
+Macro4
+MakeFilePathALink
+MakeFilePathALinkCOLUMN30
+MoveFilesTOFOLDERS
+MoveFilesTOFOLDERSSELLADAS
+ORDDENADAPNBYINSTRPOSITIO
+passfilelisttofinaldatasheet
+>playsound
+PrintFile
+PrintFileXX
+ProcessData
+PS Execute
+RecursiveFolder
+RecursiveFolderPO
+RecursiveFolderSELLADAS
+RetornalaCantidadDeRegistrosLlenos
+RetornalaCantidadDeRegistrosLlenosmaindata
+robot
+SEARCHOUTCANT1
+SEARCHOUTOC
+SEARCHOUTPlanta
+>SEARCHOUTPRECIOTOTAL
+SEARCHOUTPRECIOUNITARIO
+SelectFolder
+SelectFolderPO
+SelectFolderSELLADAS
+SENDKEYSLIST
+sequencefiles
+sequencefilesMAILING
+SetForegroundWindow
+Sleep
+sortearfound
+TABHORIZ
+TerminateApp
+Terminate Apporiginal
+TEST
+TESTCALL
+TESTPOWERSH
+TEXTOCOMILLA
+ThisIE
+TRIGGERSEARCHOUTOCEXTRACTDATA
+updatecapdataforPO
+Verify ScreenResolution
+>writeocrresultsincells
+WriteToSheet
